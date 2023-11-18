@@ -1,7 +1,8 @@
 # TBTA-D2Net
 
 This repository provides the code for the methods in our paper __'TBTA-D2Net: a novel hyperspectral image classification method based on triple-branch ternary-attention mechanism and Dense2Net'__. You can find the PDF of this paper on: https://doi.org/10.1080/01431161.2023.2277168
-PDF free download link：[TBTA-D2Net  a novel hyperspectral image classification method based on triple-branch ternary-attention mechanism and Dense2Net.pdf](https://github.com/TeresaTing/TBTA-D2Net/files/13398780/TBTA-D2Net.a.novel.hyperspectral.image.classification.method.based.on.triple-branch.ternary-attention.mechanism.and.Dense2Net.pdf)
+PDF free download link：[TBTA-D2Net.pdf](https://github.com/TeresaTing/TBTA-D2Net/files/13398787/TBTA-D2Net.pdf)
+
 
 
 
